@@ -1,16 +1,24 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Aristides">
 
-<!--
-**Aristides-Evan/Aristides-Evan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Texto de apresentação!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+   Estudando atualmente: <strong>HTML, CSS, JavaScript, Pyton.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+   Ferramentas: <strong>VSCode, GitHub.</strong>
+</p>
+<p align="left">
+   Sistema Operacional: <strong>Windows 10, linux mint </strong>
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/pedrodeveloper/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+
+  <a href="https://www.linkedin.com/in/pedro-henrique-santos-de-brito/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+</p>
