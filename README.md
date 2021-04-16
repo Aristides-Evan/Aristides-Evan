@@ -12,7 +12,7 @@ Texto de apresentação!
    🛠️ Ferramentas: <strong>VSCode, GitHub.</strong>
 </p>
 <p align="left">
-   💻 Sistema Operacional: <strong>Windows 10, linux mint </strong>
+   💻 Sistema Operacional: <strong>Windows 10, linux mint! </strong>
 </p>
 
 <p align="left">
