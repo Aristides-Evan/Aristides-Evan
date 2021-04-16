@@ -5,14 +5,14 @@ Texto de apresentação!
 </p>
 
 <p align="left">
-   Estudando atualmente: <strong>HTML, CSS, JavaScript, Pyton.</strong>
+   📚 Estudando atualmente: <strong>HTML, CSS, JavaScript, Pyton.</strong>
 </p>
 
 <p align="left">
-   Ferramentas: <strong>VSCode, GitHub.</strong>
+   🛠️ Ferramentas: <strong>VSCode, GitHub.</strong>
 </p>
 <p align="left">
-   Sistema Operacional: <strong>Windows 10, linux mint </strong>
+   💻 Sistema Operacional: <strong>Windows 10, linux mint </strong>
 </p>
 
 <p align="left">
