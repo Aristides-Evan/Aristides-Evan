@@ -5,7 +5,7 @@ Texto de apresentação!
 </p>
 
 <p align="left">
-   📚 Estudando atualmente: <strong>HTML, CSS, JavaScript, Pyton.</strong>
+   📚 Estudando atualmente: <strong>HTML, CSS, JavaScript, React.js.</strong>
 </p>
 
 <p align="left">
