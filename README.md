@@ -1,7 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Aristides">
 
 <p align="left">
-Texto de apresentação!
+Ola, meu nome é Aristides Evandro, sou estudande de gestão de tecnologia da informação na universidade UNIP-GO.
+</p>
+
+<p align="left">
+Tenho muito interesse em trabalhar e manusear a tecnologia principalmente voltada a área de desenvolvimente de software's.
 </p>
 
 <p align="left">
