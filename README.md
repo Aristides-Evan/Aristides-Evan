@@ -9,7 +9,7 @@ Tenho muito interesse em trabalhar e manusear a tecnologia principalmente voltad
 </p>
 
 <p align="left">
-Busco colocar em prática meus conhecimentos e aprimorar minhas abilidade.
+Busco colocar em prática meus conhecimentos e aprimorar minhas abilidades.
 </p>
 
 <p align="left">
