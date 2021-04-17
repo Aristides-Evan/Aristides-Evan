@@ -9,6 +9,10 @@ Tenho muito interesse em trabalhar e manusear a tecnologia principalmente voltad
 </p>
 
 <p align="left">
+Busco colocar em prática meus conhecimentos e aprimorar minhas abilidade.
+</p>
+
+<p align="left">
    📚 Estudando atualmente: <strong>HTML, CSS, JavaScript, React.js.</strong>
 </p>
 
