@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Aristides">
 
 <p align="left">
-Ola, meu nome é Aristides Evandro, sou estudande de gestão de tecnologia da informação na universidade UNIP-GO.
+   Olá, meu nome é <strong>Aristides Evandro</strong>, sou estudande de gestão de tecnologia da informação na universidade UNIP-GO.
 </p>
 
 <p align="left">
